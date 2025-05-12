@@ -1,2 +1,19 @@
-# Portfolio
-방민권 포트폴리오
+# 포트폴리오
+---
+## 자기소개
+---
+- 이름 : 방민권
+- 생년월일 : 1998년 6월 30일
+- 학교 : 인하공업전문학교 전자공학과 졸업(2024년 2월)
+- 이메일 : qkdalsrnjs0630@gmail.com
+- 깃허브 : https://github.com/alsrnjs0630/
+
+## 사용 기술
+---
+- Java, Python, Javascript, Oracle
+- Spring, Node.js, React
+
+## 프로젝트 이력
+---
+- 손쉽게 다양한 차를 구매 할 수 있는 웹 서비스 프로젝트 [2024.08 ~ 2024.11]
+
